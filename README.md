@@ -1,5 +1,4 @@
 # pycalc
 
-Super simple calculator in Python
-
+Super simple calculator in Python with login
 
